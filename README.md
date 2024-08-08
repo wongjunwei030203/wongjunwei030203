@@ -1,4 +1,4 @@
-## Hello! I'm Jun Wei 👋
+## Hello! I'm Jun Wei
 
 <!--
 **wongjunwei030203/Wong-Jun-Wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
