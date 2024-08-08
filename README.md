@@ -8,4 +8,4 @@
 - 📚 Passionate about innovative tech projects where I can leverage my skills in programming, machine learning, and app development
 - 🙋🏻‍♂️ My academic projects and leadership roles in tech clubs showcase my drive to learn and contribute to a dynamic tech environment
 - 🔎 Seeking an internship opportunity from 18 November 2024 onwards for 3 months to apply my technical skills and analytical abilities, and to grow professionally.
-- 📨 Reach out to me at my [LinkedIn](https://www.linkedin.com/in/wong-jun-wei-288055231/) for any questions, collaboration, or just to connect!
+- 📨 Hit me up at my [LinkedIn](https://www.linkedin.com/in/wong-jun-wei-288055231/) for any questions, collaboration, or just to connect!
