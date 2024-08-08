@@ -1,4 +1,4 @@
-## Hello! I'm Jun Wei
+## Hi there! I'm Jun Wei
 
 - 👨‍💻 A final year Computer Science in Data Science Student at Monash University Malaysia
 - 📚 Passionate about innovative tech projects where I can leverage my skills in programming, machine learning, and app development
